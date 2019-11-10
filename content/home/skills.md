@@ -18,28 +18,43 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  
-[[feature]]
-  icon = "lambda"
-  icon_pack = "far"
-  name = "Haskell"
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "infinity"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Mathematics"
+#  description = "100%"  
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "users"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Leadership"
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Communication"
+
+[[feature]]
+  icon = "pencil-alt"
+  icon_pack = "fas"
+  name = "Writing"
+
+[[feature]]
+  icon = "file-powerpoint"
+  icon_pack = "fas"
+  name = "Presentation"
+
+# [[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
+  
+# [[feature]]
+#   icon = "camera-retro"
+#   icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 +++

@@ -27,6 +27,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   * Team lead
+  * System design
+  * Research
   * Signal processing
   * Algorithm design
   """

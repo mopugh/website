@@ -24,7 +24,7 @@ bio:  Think and wonder, wonder and think.
 interests:
 - Mathematics
 - Signal Processing
-- Communications, Coding and Information Theory
+- Information Theory
 - Optimization
 - Programming
 - Algorithms
@@ -61,7 +61,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/rexyroo
+  link: https://github.com/mopugh
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mopugh/
