@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Matthew Pugh is a principal member of the technical staff at Sandia National Laboratories in Livermore, California. His early career focused on research in sensor and signal processing, algorithm design and communications. More recently he leads teams of engineers to execute critical laboratory programs. 
+Matthew Pugh is a principal member of the technical staff at Sandia National Laboratories in Livermore, California. His early career focused on research in signal processing, algorithm design and communications. More recently he leads teams of engineers to execute critical laboratory programs. 
 
 *"The purpose of computation is insight, not numbers."*
 
